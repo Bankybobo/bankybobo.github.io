@@ -1,0 +1,25 @@
+body {
+    font-family: 'Mansalva', cursive;
+    }
+
+.height {
+    /* height: 1000px; */
+    min-height: 100vh;  /* means 100 view heights */
+} 
+
+.halfHeight {
+    /* height: 1000px; */
+    min-height: 80vh;  /* means 100 view heights */
+} 
+
+.shadow-3 {
+    box-shadow: 0 8px 6px -6px black;
+      }
+
+.curve {
+    border-radius: 20px;
+}
+
+.no-underline {
+    text-decoration: none;
+}
